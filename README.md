@@ -24,6 +24,10 @@ python main.py
 - SQLite (Database)
 - CSV (Esportazione dati)
 
+## 📷 Screenshot
+Ecco un'anteprima dell'app:
+
+![To-Do List Screenshot](screen/To_do_list.png)
 ## ✍🏻️ Autore 
 Fabrizio Mileto
 https://github.com/fabriziomileto8
